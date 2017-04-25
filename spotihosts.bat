@@ -25,5 +25,6 @@ echo 0.0.0.0 spclient.wg.spotify.com >> %hostspath%
 echo 0.0.0.0 v.jwpcdn.com >> %hostspath%
 echo 0.0.0.0 weblb-wg.gslb.spotify.com >> %hostspath%
 echo 0.0.0.0 www.omaze.com >> %hostspath%
+echo ipconfig /flushdns
 
 exit
